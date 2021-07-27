@@ -1,0 +1,3 @@
+[submodule "Vendor/BeatKit"]
+	path = Vendor/BeatKit
+	url = git@github.com:taxibeat/iOS-Framework.git
