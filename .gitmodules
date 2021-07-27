@@ -4,7 +4,3 @@
 [submodule "Vendor/Alamofire"]
 	path = Vendor/Alamofire
 	url = git@github.com:Alamofire/Alamofire.git
-[submodule "Vendor/Thingy"]
-	path = Vendor/Thingy
-	url = git@github.com:bojan/Thingy.git
-	branch = develop
