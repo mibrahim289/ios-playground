@@ -1,9 +1,6 @@
 [submodule "Vendor/BeatKit"]
 	path = Vendor/BeatKit
 	url = git@github.com:taxibeat/iOS-Framework.git
-[submodule "Vendors"]
-	path = Vendors
-	url = git@github.com:bojan/Thingy.git
 [submodule "Vendor/Alamofire"]
 	path = Vendor/Alamofire
 	url = git@github.com:Alamofire/Alamofire.git
